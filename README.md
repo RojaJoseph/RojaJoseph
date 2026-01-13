@@ -1,14 +1,12 @@
-•	Objective: The primary goal of this project is to build a predictive model that can identify patients who are at high risk of hospital readmission within 30 days after their initial discharge.<!---
+I’m an AI/ML Associate with 2.5+ years of experience building production-ready AI solutions that deliver real business impact. My work focuses on computer vision, digital twins, RAG-based chatbots, and data-driven dashboards.
 
-1.	Data Preprocessing: This task involves cleaning and preparing the healthcare data. You'll need to handle missing values, perform data normalization or scaling, and deal with categorical variables.
-2.	Feature Engineering: Create relevant features that can be used for predictive modeling. This may involve extracting patient demographics, medical history, previous hospitalizations, and other relevant information.
-3.	Model Building: Develop a machine learning or statistical model that can predict the likelihood of hospital readmission within 30 days. Common approaches include logistic regression, decision trees, random forests, or more advanced models like gradient boosting or neural networks.
-4.	Model Evaluation: Assess the performance of the predictive model using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, ROC curve, and AUC (Area Under the Curve).
+At Easy Link Web & IT Solutions, I’ve led the development of AI-driven MVPs, improving operational efficiency by 30%, and built AI-powered customer support chatbots with WhatsApp integration that reduced response times by 40%. I’ve also worked on Digital Twin–based predictive maintenance systems, minimizing downtime by 25%.
 
+My technical strengths include developing high-precision object detection and segmentation models (YOLOv8), building automated video processing pipelines using Python and OpenCV, and deploying scalable backend services with FastAPI and REST APIs. I’ve handled end-to-end workflows—from data annotation and model training to deployment and visualization.
 
+I’ve also developed executive dashboards using BigQuery, Looker Studio, Power BI, and Streamlit, enabling stakeholders to make data-driven decisions. Additionally, I’ve built RAG-based enterprise chatbots using LangChain, FAISS, and Transformers to improve knowledge accessibility.
 
+I enjoy solving real-world problems using AI and collaborating with cross-functional teams to build scalable, impactful solutions.
 
-
-RojaJoseph/RojaJoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Skills: AI/ML, Computer Vision, YOLOv8, FastAPI, Python, OpenCV, Digital Twins, RAG, Data Analytics
+📫 Open to: AI Engineer | ML Engineer | Computer Vision Engineer roles
